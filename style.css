@@ -20,6 +20,8 @@ div.gallery img {
   overflow: hidden;
   }
   button{
+
+  
       background-color: black;
       color: white;
       padding-top: 3px;
@@ -28,6 +30,7 @@ div.gallery img {
       
   }
   a:link,a:visited{
+    padding-top: 5px;
       text-decoration: none;
       background-color: brown;
       color: black;
